@@ -1,0 +1,14 @@
+{
+  "version": "7.0.5",
+  "name": "n11",
+  "projects": [
+    {
+      "id": "77924862-be9f-4d13-8be5-6ad291cb0af5",
+      "name": "n11",
+      "fileName": "n11\\n11.vpf",
+      "expanded": true,
+      "unloaded": false
+    }
+  ],
+  "activeProjectId": "77924862-be9f-4d13-8be5-6ad291cb0af5"
+}
